@@ -5,7 +5,7 @@ This project demonstrates the use of HTML, CSS, Flexbox, Grid, and Sass to creat
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/Yusuf-Mohamed1/Personal_Project.git
+git clone https://github.com/Yusuf-Mohamed1/Personal-Project.git
 
 2. Navigate to the project directory:
 cd Personal_Project
