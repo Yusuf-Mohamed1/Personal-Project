@@ -32,5 +32,4 @@ cd Personal_Project
 ## Author
 - [Yusuf Mohamed](https://github.com/Yusuf-Mohamed1)
 
-## Overview
-https://yusuf-mohamed1.github.io/Personal-Project/
+## [Overview](https://yusuf-mohamed1.github.io/Personal-Project/)
